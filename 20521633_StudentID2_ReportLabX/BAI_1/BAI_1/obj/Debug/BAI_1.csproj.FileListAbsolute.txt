@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\BAI_1\BAI_1\bin\Debug\BAI_1.exe.config
+C:\Users\DELL\source\repos\BAI_1\BAI_1\bin\Debug\BAI_1.exe
+C:\Users\DELL\source\repos\BAI_1\BAI_1\bin\Debug\BAI_1.pdb
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.Form_main.resources
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.Properties.Resources.resources
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.exe
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.pdb
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.Bai1.resources
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.Bai2.resources
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.Bai3.resources
+C:\Users\DELL\source\repos\BAI_1\BAI_1\obj\Debug\BAI_1.Bai4.resources
